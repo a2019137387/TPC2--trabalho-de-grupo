@@ -7,7 +7,7 @@ Uma explicação do conteúdo presente em Patrimonio.csv.
 | OBJECT ID | Identificação de cada monumento | Inteiro >= 0
 | COD_SIG | Código do Sistema de Informação Geográfica | Inteiro >= 0
 | IDTIPO | Tipo de ID | Inteiro >= 0
-| INF_NOME | Inforamção do nome de cada monumento | Alfabético
+| INF_NOME | Informação do nome de cada monumento | Alfabético
 | INF_MORADA | Informação da morada de cada monumento | Alfabético
 | INF_TELEFONE | Informação do telefone de cada monumento |Inteiro >= 0
 | INF_FAX | Informação do fax de cada monumento |Inteiro >= 0 ou vazio
