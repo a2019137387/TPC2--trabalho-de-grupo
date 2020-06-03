@@ -1,4 +1,4 @@
-**- 📔 Dicionário de dados**
+**📔 Dicionário de dados**
 
 Uma explicação do conteúdo presente em Patrimonio.csv.
 
