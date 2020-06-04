@@ -4,6 +4,8 @@
 
 Abaixo está presente o dicionário de dados relativo à nossa parte A do trabalho, cujo tema é patrimónios e monumentos culturais. A explicação do porquê de termos escolhido este tema está no notebook presente na pasta A do trabalho, bem como as outras tarefas pedidas e o csv utilizado.
 
+Para além da pasta A também consta a pasta B com o notebook associado a ela. Nas pastas C1 e C2 estão os notebooks de forma individual especificado pelo nome de cada aluna.
+
 **📔 Dicionário de dados**
 
 Uma explicação do conteúdo presente em Patrimonio.csv.
