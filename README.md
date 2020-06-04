@@ -1,3 +1,6 @@
+** GITHUB EM ATUALIZAÇÃO POR CAUSA DE PASTAS E FICHEIROS**
+
+
 **📔 Dicionário de dados**
 
 Uma explicação do conteúdo presente em Patrimonio.csv.
