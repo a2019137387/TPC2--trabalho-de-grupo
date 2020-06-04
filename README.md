@@ -1,6 +1,7 @@
 ## GITHUB EM ATUALIZAÇÃO POR CAUSA DE PASTAS E FICHEIROS
 
 **Grupo TPC2 - Inês Borges; Margarida Morais; Maria Pacheco.**
+
 Abaixo está presente o dicionário de dados relativo à nossa parte A do trabalho, cujo tema é patrimónios e monumentos culturais. A explicação do porquê de termos escolhido este tema está no notebook presente na pasta A do trabalho, bem como as outras tarefas pedidas e o csv utilizado.
 
 **📔 Dicionário de dados**
